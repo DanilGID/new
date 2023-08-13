@@ -154,8 +154,10 @@ a {
   }
 }
 @media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} }
-@media screen and (max-width: 940px) { div.contentblock {width: 824px;} }
-@media screen and (max-width: 592px) { div.contentblock {width: 470px;} }
+@media screen and (max-width: 180px) { div.contentblock {width: 80px;} }
+@media screen and (max-width: 980px) { div.contentblock {width: 800px;} }
+@media screen and (max-width: 440px) { div.contentblock {width: 324px;} }
+@media screen and (max-width: 292px) { div.contentblock {width: 170px;} }
 
 
 
